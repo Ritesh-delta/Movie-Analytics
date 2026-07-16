@@ -90,17 +90,7 @@ The project includes visualizations such as:
 
 ---
 
-## 📷 Project Preview
 
-### 📓 Jupyter Notebook
-
-> *(Add notebook screenshots here later.)*
-
-### 📊 Power BI Dashboard
-
-> *(Dashboard screenshot will be added after completion.)*
-
----
 
 
 ## ▶️ How to Run
